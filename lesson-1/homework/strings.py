@@ -1,1 +1,1 @@
-
+print ("salom")
